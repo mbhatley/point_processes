@@ -13,6 +13,9 @@ __pycache__/
 *.egg
 dist/
 build/
+
+# pysppmix sandbox output
+sandbox_plots/
 wheels/
 
 # Virtual environments
